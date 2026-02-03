@@ -1,6 +1,6 @@
 # Hi, I'm Pankaj Singh 👋
 
-Full Stack MERN Developer with hands-on experience in building
+🚀 Full Stack MERN Developer with hands-on experience in building
 scalable web applications and AI-powered systems.
 
 I work across the entire product lifecycle — from frontend UI
@@ -9,11 +9,14 @@ to backend APIs and production deployments.
 ---
 
 ## 🛠 Tech Stack
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express, MongoDB
-- **AI / Automation:** OpenAI API, AI content pipelines
-- **Cloud & DevOps:** AWS (EC2, S3, CloudFront)
-- **Tools:** Git, GitHub, Postman
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
 
 ---
 
@@ -22,6 +25,14 @@ to backend APIs and production deployments.
 - Developed AI-assisted article generation and rewriting workflows
 - Integrated third-party APIs and optimized backend performance
 - Worked on scalable architectures used in live environments
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pankajtouch&show_icons=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajtouch&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pankajtouch)
 
 ---
 
