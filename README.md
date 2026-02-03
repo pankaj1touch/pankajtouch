@@ -30,9 +30,11 @@ to backend APIs and production deployments.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pankajtouch&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajtouch&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pankajtouch)
+## 📊 GitHub Stats
+
+![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pankajtouch&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajtouch&layout=compact&theme=default)
+
 
 ---
 
