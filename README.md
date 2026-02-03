@@ -28,16 +28,6 @@ to backend APIs and production deployments.
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pankajtouch&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajtouch&layout=compact&theme=default)
-
-
----
-
 ## 📈 GitHub Activity
 - 600+ contributions in 2025
 - Active across personal and organization repositories
